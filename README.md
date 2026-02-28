@@ -1,6 +1,5 @@
 # Periscope v1.0
 
-Mini SIEM 
 I built this for practice • Learning-focused • Lightweight • Experimental
 
 ---
