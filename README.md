@@ -1,6 +1,6 @@
 # Periscope v1.0
 
-I built this for practice - Learning-focused - Lightweight - Experimental
+I built this for practice,learning-focused,lightweight and experimental
 
 ---
 
